@@ -1,0 +1,4 @@
+name:张明辉啦 男/湖南         
+num_weibo:78
+num_watch:163
+num_fans:157

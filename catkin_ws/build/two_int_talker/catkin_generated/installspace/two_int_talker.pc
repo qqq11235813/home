@@ -1,0 +1,8 @@
+prefix=/home/frank/AMyLab/catkin_ws/install
+
+Name: two_int_talker
+Description: Description of two_int_talker
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/frank/AMyLab/catkin_ws/install/lib 
+Requires: message_runtime

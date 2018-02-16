@@ -1,0 +1,2 @@
+learning_tf:project1_solution:test:two_int_talker
+-DCATKIN_DEVEL_PREFIX=/home/frank/AMyLab/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/frank/AMyLab/catkin_ws/install -G Unix Makefiles

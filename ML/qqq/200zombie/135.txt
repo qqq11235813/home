@@ -1,0 +1,4 @@
+name:用户6388057078 男/新疆         
+num_weibo:0
+num_watch:60
+num_fans:1

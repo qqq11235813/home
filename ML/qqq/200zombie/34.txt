@@ -1,0 +1,4 @@
+name:用户6394239980 男/海外         
+num_weibo:1
+num_watch:80
+num_fans:3

@@ -1,0 +1,8 @@
+prefix=/home/frank/AMyLab/catkin_ws/devel
+
+Name: test
+Description: Description of test
+Version: 0.0.0
+Cflags: 
+Libs: -L/home/frank/AMyLab/catkin_ws/devel/lib 
+Requires: 

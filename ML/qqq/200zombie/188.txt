@@ -1,0 +1,4 @@
+name:用户6362265673
+num_weibo:67
+num_watch:184
+num_fans:126

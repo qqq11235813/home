@@ -1,0 +1,4 @@
+name:用户6248610642 男/其他         
+num_weibo:0
+num_watch:58
+num_fans:3

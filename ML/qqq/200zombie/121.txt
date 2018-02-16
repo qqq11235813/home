@@ -1,0 +1,4 @@
+name:纯鲜料酒
+num_weibo:85
+num_watch:333
+num_fans:156

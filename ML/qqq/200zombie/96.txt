@@ -1,0 +1,4 @@
+name:用户6380833255 男/北京         
+num_weibo:0
+num_watch:85
+num_fans:2

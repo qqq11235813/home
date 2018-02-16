@@ -1,0 +1,8 @@
+prefix=/home/frank/AMyLab/catkin_ws/install
+
+Name: project1_solution
+Description: Description of project1_solution
+Version: 0.0.0
+Cflags: -I/home/frank/AMyLab/catkin_ws/install/include
+Libs: -L/home/frank/AMyLab/catkin_ws/install/lib 
+Requires: rospy message_runtime

@@ -1,0 +1,4 @@
+name:用户6188343488 女/其他         
+num_weibo:0
+num_watch:78
+num_fans:6
